@@ -9,5 +9,13 @@ Titolo segnaposto del risultato di ricerca, titolo segnaposto del risultato di r
 | **Mario Rossi** | *Sviluppatore* | [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com) |
 | **Mario Rossi** | *Sviluppatore* | [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com) |
 | **Mario Rossi** | *Sviluppatore* | [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com) |
+
+---
+NOME: **Mario Rossi**, **Mario Rossi**, **Mario Rossi**
+RUOLO: *Sviluppatore*, *Sviluppatore*, *Sviluppatore*
+EMAIL: [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com), [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com), [mario.rossi@gmail.com](mailto:mario.rossi@gmail.com)
+---
+
 ### Metodologia di approccio
 Titolo segnaposto del risultato di ricerca, titolo segnaposto del risultato di ricerca
+
