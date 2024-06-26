@@ -4,6 +4,7 @@ metadata:
   name: "prova2"
   annotations:
     backstage.io/techdocs-ref: dir:.
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
 spec:
   type: service
   owner: user:guest
