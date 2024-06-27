@@ -9,3 +9,15 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: Api
+metadata:
+  name: "provApi"
+  annotations:
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
