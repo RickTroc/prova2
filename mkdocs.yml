@@ -1,5 +1,5 @@
-site_name: Documento mk
-site_description: questa è la descrizione del documento
+site_name: Mondo marino
+site_description: un documento sul mare
 plugins:
   - techdocs-core
 nav:
