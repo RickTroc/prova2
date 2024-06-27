@@ -3,4 +3,5 @@ site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
 nav:
-  - Getting Started: index.md
+  - Coste frastagliate: index.md
+  - Barriera corallina: file1.md
