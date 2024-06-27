@@ -1,12 +1,12 @@
 ## Coste Frastagliate: Dove la Terra Incontra il Mare in un Abbraccio Selvaggio
 
-[Image of a rugged coastline with cliffs and crashing waves at sunset]
+![Image of a rugged coastline with cliffs and crashing waves at sunset](https://pbs.twimg.com/ext_tw_video_thumb/1758197797189206016/pu/img/RHJVCC0mtad324ln.jpg:large)
 
 Le coste frastagliate rappresentano uno degli spettacoli naturali più suggestivi e drammatici del nostro pianeta. In questo documento, esploreremo la loro formazione, la biodiversità unica che ospitano e le sfide che affrontano a causa dei cambiamenti climatici.
 
 ### Capitolo 1: La Nascita di un Capolavoro Geologico
 
-[Image of a geological cross-section showing how cliffs are formed]
+![Image of a geological cross-section showing how cliffs are formed](https://www.nps.gov/grca/learn/nature/images/s_2.jpg?maxwidth=650&autorotate=false)
 
 Le coste frastagliate sono il risultato di un'interazione millenaria tra la terra e il mare. L'azione incessante delle onde, combinata con la composizione geologica delle rocce, scolpisce nel tempo falesie imponenti, grotte marine misteriose e faraglioni che sembrano sfidare la gravità.
 
